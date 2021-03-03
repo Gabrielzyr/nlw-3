@@ -79,7 +79,7 @@ export default function CreateOrphanage() {
       <Sidebar />
 
       <main>
-        <form onSubmit={handleSubmit} className="create-orphanage-form">
+        <form autoComplete="off" onSubmit={handleSubmit} className="create-orphanage-form">
           <fieldset>
             <legend>Dados</legend>
 
@@ -103,7 +103,7 @@ export default function CreateOrphanage() {
             </Map>
 
             <div className="input-block">
-              <label htmlFor="name">Nome</label>
+              <label htmlFor="name" >Nome</label>
               <input 
                 id="name"
                 value={name}
