@@ -34,10 +34,7 @@ It is an event that happens every few months and perdures for a week,  made by [
 
 Happy is a web application where you can easily find orphanages close to you and gather its information like location and visiting hours or you can add your own orphanage to the list.
 
-<div align="center">
-    <img alt="HappyGif" title="#MegaHack" src="happygif.gif" alt="happy gif" width="900px" />
-</div>
-
+![Gif-Happy](https://github.com/Gabrielzyr/nlw-3/blob/master/Happygif.gif)
 
 
 ## 💻 Technologies
